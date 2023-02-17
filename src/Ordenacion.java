@@ -4,8 +4,6 @@
  * @version 1.0
  */
 
-//COMENTARIO PARA COMMIT, Hola holita vecinito
-
 class Ordenacion {
 
 	/**
